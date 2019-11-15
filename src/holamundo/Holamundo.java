@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Usuario
  */
-public class HolamundoMANUEL{
+public class HolamundoMANUELASDAS{
 
     /**
      * @param args the command line arguments
